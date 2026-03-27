@@ -1,0 +1,4 @@
+*** Settings ***
+Library    Selenium2Library
+Library    Collections
+Library    String
